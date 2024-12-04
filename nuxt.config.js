@@ -71,8 +71,6 @@ export default {
     '@nuxtjs/composition-api/module',
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
-    // https://windicss.org/guide/
-    'nuxt-windicss',
     // https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
     // https://www.npmjs.com/package/@nuxtjs/style-resources
